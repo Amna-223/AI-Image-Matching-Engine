@@ -1,0 +1,760 @@
+[
+    {
+        "filename": "camera_01.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Vintage 35mm Film Cameras Collection",
+            "category": "Film Cameras",
+            "attributes": [
+                "35mm film format",
+                "Classic vintage aesthetic",
+                "Includes Olympus Trip 35 and Konica C35 models",
+                "Compact analog design"
+            ],
+            "description": "A stylish collection of classic vintage 35mm film cameras featuring an Olympus Trip 35, a black Konica C35, and a compact point-and-shoot camera on a dark wood grain surface."
+        }
+    },
+    {
+        "filename": "camera_02.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Vintage 35mm Film Cameras",
+            "category": "Cameras & Photography",
+            "attributes": [
+                "Analogue 35mm film format",
+                "Retro black and silver metallic construction",
+                "Includes Konica Hexanon 38mm f/2.8 lens",
+                "Built-in flash and mechanical controls"
+            ],
+            "description": "A collection of classic vintage 35mm compact film cameras featuring iconic retro designs, tactile controls, and fast prime lenses."
+        }
+    },
+    {
+        "filename": "camera_03.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Samsung NX Digital Camera with 18-55mm Lens",
+            "category": "Cameras & Optics",
+            "attributes": [
+                "18-55mm OIS zoom lens",
+                "Silver and brown leatherette finish",
+                "Mirrorless digital camera design",
+                "Top control mode dial"
+            ],
+            "description": "A Samsung NX mirrorless camera featuring a classic brown leatherette grip, silver metal top plate, and an 18-55mm zoom lens, pictured alongside vintage film cameras on a wooden surface."
+        }
+    },
+    {
+        "filename": "camera_04.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Sony α7 IV Mirrorless Camera with Sigma 35mm Lens",
+            "category": "Cameras & Optics",
+            "attributes": [
+                "Full-frame digital sensor",
+                "Interchangeable lens mount",
+                "Matte black finish",
+                "Sigma 35mm f/1.4 DG DN lens",
+                "Ergonomic grip design"
+            ],
+            "description": "A top-down shot featuring a modern black Sony α7 IV full-frame mirrorless camera with a Sigma 35mm f/1.4 lens held in hand, alongside a vintage Minolta SLR film camera."
+        }
+    },
+    {
+        "filename": "camera_05.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Fujifilm FinePix Digital Cameras",
+            "category": "Digital Cameras",
+            "attributes": [
+                "Vintage compact design",
+                "Metallic silver finish",
+                "1.5 to 2.3 Megapixels",
+                "Fujinon lenses",
+                "Cyan and red gel lighting"
+            ],
+            "description": "A lineup of three vintage Fujifilm FinePix compact digital cameras—models FinePix 700, FinePix 600Z, and FinePix 2700—showcased with vibrant cyan and red dual-tone studio lighting on a reflective surface."
+        }
+    },
+    {
+        "filename": "camera_06.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Zenit 3M Vintage SLR Camera",
+            "category": "Cameras & Photography Equipment",
+            "attributes": [
+                "35mm film SLR camera",
+                "Silver and black dual-tone metallic body",
+                "Includes front lens with textured logo cap",
+                "Vintage Soviet analog design"
+            ],
+            "description": "A vintage Zenit 3M 35mm film SLR camera showcasing a classic silver top plate, black textured leatherette body, and attached lens with a protective front lens cap."
+        }
+    },
+    {
+        "filename": "camera_07.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Vintage Film Camera Collection",
+            "category": "Cameras & Optics",
+            "attributes": [
+                "Monochrome photography",
+                "Retro vintage design",
+                "Classic analog film cameras",
+                "Metallic and leatherette construction"
+            ],
+            "description": "A close-up black-and-white image showcasing a wall-mounted collection of vintage analog film cameras, featuring folding and rangefinder style models."
+        }
+    },
+    {
+        "filename": "camera_08.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Vintage Film Camera Collection",
+            "category": "Cameras & Photography",
+            "attributes": [
+                "Set of 9 cameras",
+                "Classic silver and black finish",
+                "Analogue film design",
+                "Flat lay arrangement"
+            ],
+            "description": "A grid collection of nine distinct vintage analogue film cameras featuring classic metallic frames and black textured grips."
+        }
+    },
+    {
+        "filename": "camera_09.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Sony Alpha 7R Mirrorless Camera",
+            "category": "Cameras & Photography",
+            "attributes": [
+                "Full-frame mirrorless",
+                "Sony E-mount",
+                "Black finish",
+                "Interchangeable lens camera body"
+            ],
+            "description": "A Sony Alpha 7R mirrorless camera displayed on a wooden tabletop alongside a Canon DSLR, a compact Sony Cyber-shot camera, and a film slate in the background."
+        }
+    },
+    {
+        "filename": "camera_10.jpg",
+        "category_folder": "cameras",
+        "analysis": {
+            "product": "Vintage 35mm SLR Film Cameras and Lens",
+            "category": "Cameras & Photography",
+            "attributes": [
+                "Minolta X-700 camera body",
+                "50mm f/1.7 MD Rokkor lens",
+                "Black matte finish",
+                "35mm film format",
+                "Classic analog SLR design"
+            ],
+            "description": "A close-up shot featuring classic 35mm SLR film cameras, highlighting a sharply focused black Minolta X-700 fitted with a 50mm f/1.7 MD Rokkor lens, accompanied by a blurred Canon SLR camera and an extra detachable lens."
+        }
+    },
+    {
+        "filename": "headphone_01.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Light Blue Beats Wireless Headphones",
+            "category": "Headphones & Audio Equipment",
+            "attributes": [
+                "Over-ear design",
+                "Light blue matte exterior with light beige inner headband padding",
+                "Soft cushioned ear pads",
+                "Wireless Bluetooth connectivity",
+                "Adjustable headband"
+            ],
+            "description": "A pair of light blue over-ear wireless headphones featuring plush cushioned ear cups and a contrasting beige inner headband, resting on green grass."
+        }
+    },
+    {
+        "filename": "headphone_02.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Black Wireless Headphones",
+            "category": "Electronics & Audio",
+            "attributes": [
+                "Black color",
+                "Wireless Bluetooth connectivity",
+                "Padded ear cushions",
+                "Adjustable headband",
+                "Matte finish"
+            ],
+            "description": "A pair of sleek black wireless headphones featuring plush ear cushions and an adjustable headband set against a clean white background."
+        }
+    },
+    {
+        "filename": "headphone_03.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Over-Ear Wireless Headphones",
+            "category": "Electronics & Audio",
+            "attributes": [
+                "Over-ear design",
+                "Soft padded ear cushions and headband",
+                "Cream / light beige color",
+                "Wireless Bluetooth functionality"
+            ],
+            "description": "Sleek, cream-colored over-ear wireless headphones featuring plush ear cushions and an adjustable headband, artfully styled amidst lush green foliage and bright yellow flowers."
+        }
+    },
+    {
+        "filename": "headphone_04.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Wireless Over-Ear Headphones",
+            "category": "Audio & Electronics",
+            "attributes": [
+                "Coral Pink / Red",
+                "Over-ear design",
+                "Padded ear cushions",
+                "Textured earcup finish",
+                "Built-in control buttons & audio jack"
+            ],
+            "description": "A pair of modern pink wireless over-ear headphones featuring comfortable padded ear cushions, textured outer earcups, and control buttons, resting on a warm wooden table."
+        }
+    },
+    {
+        "filename": "headphone_05.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Over-Ear Headphones",
+            "category": "Electronics & Audio",
+            "attributes": [
+                "Over-ear design",
+                "Padded leatherette ear cushions",
+                "Matte black finish",
+                "Silver accents"
+            ],
+            "description": "A sleek pair of modern black over-ear headphones featuring soft plush ear cushions and a durable headband, resting on a wooden tabletop."
+        }
+    },
+    {
+        "filename": "headphone_06.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "KRK Systems KNS-8400 Studio Headphones",
+            "category": "Headphones & Audio",
+            "attributes": [
+                "Over-ear design",
+                "Black matte finish",
+                "Wired connection",
+                "Padded adjustable headband",
+                "Left/Right channel indicators"
+            ],
+            "description": "A pair of black KRK Systems KNS-8400 over-ear studio monitor headphones with a single-sided audio cable, shown on a solid pink background."
+        }
+    },
+    {
+        "filename": "headphone_07.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Wired On-Ear Headphones",
+            "category": "Electronics & Audio",
+            "attributes": [
+                "Wired 3.5mm connection",
+                "Black leatherette ear cushions",
+                "Brown padded headband lining",
+                "Gold-plated audio jack connector"
+            ],
+            "description": "A classic styled pair of black wired on-ear headphones featuring soft cushioned ear cups, a brown padded headband interior, and an attached audio cable with an inline controller."
+        }
+    },
+    {
+        "filename": "headphone_08.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Over-Ear Headphones",
+            "category": "Electronics & Audio Equipment",
+            "attributes": [
+                "Black color",
+                "Textured earcup design",
+                "Padded ear cushions",
+                "Adjustable headband",
+                "Swivel mechanism"
+            ],
+            "description": "A sleek pair of black over-ear headphones featuring a mesh-patterned earcup design and soft leatherette ear cushions resting on a dark textured surface."
+        }
+    },
+    {
+        "filename": "headphone_09.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Audio-Technica ATH-M50x Headphones",
+            "category": "Over-Ear Headphones",
+            "attributes": [
+                "Purple and black colorway",
+                "Over-ear closed-back design",
+                "Wired connection",
+                "Swiveling and foldable earcups",
+                "Padded headband and ear cushions"
+            ],
+            "description": "A pair of purple Audio-Technica ATH-M50x over-ear studio headphones resting on top of a silver laptop."
+        }
+    },
+    {
+        "filename": "headphone_10.jpg",
+        "category_folder": "headphones",
+        "analysis": {
+            "product": "Over-Ear Headphones on Stand",
+            "category": "Audio / Electronics",
+            "attributes": [
+                "Black color",
+                "Over-ear design",
+                "Padded headband and ear cushions",
+                "Includes desktop stand",
+                "3.5mm audio jack port"
+            ],
+            "description": "Sleek black over-ear headphones featuring cushioned ear cups and a padded headband, displayed on a minimalist black desktop stand against a light wood panel background."
+        }
+    },
+    {
+        "filename": "laptop_01.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "HP Laptop",
+            "category": "Laptops & Computers",
+            "attributes": [
+                "Dark grey finish",
+                "HP logo on display bezel",
+                "Full keyboard with numeric keypad",
+                "Digital clock lock screen"
+            ],
+            "description": "A dark grey HP laptop placed on a wooden desk, featuring an active screen displaying a digital clock lock screen in a classroom setting."
+        }
+    },
+    {
+        "filename": "laptop_02.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Laptop",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Silver finish",
+                "Slim design",
+                "Black chiclet keyboard",
+                "Wide aspect ratio display",
+                "Modern aesthetic"
+            ],
+            "description": "A sleek, thin silver laptop computer being typed on at a white workspace desk alongside another laptop."
+        }
+    },
+    {
+        "filename": "laptop_03.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Apple MacBook Air",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Silver aluminum body",
+                "Slim and lightweight design",
+                "Black keyboard keys"
+            ],
+            "description": "A sleek silver laptop with a backlit black keyboard, shown open on a wooden surface in a collaborative workspace setting."
+        }
+    },
+    {
+        "filename": "laptop_04.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "ASUS ROG Gaming Laptop",
+            "category": "Laptops & Computers",
+            "attributes": [
+                "RGB backlit keyboard",
+                "Side-mounted trackpad",
+                "NVIDIA GeForce RTX graphics",
+                "Sleek black gaming chassis"
+            ],
+            "description": "A high-performance ASUS ROG gaming laptop featuring a unique forward keyboard layout with RGB backlighting, side touchpad, and powerful dedicated graphics."
+        }
+    },
+    {
+        "filename": "laptop_05.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Space Gray Laptop",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Space gray aluminum body",
+                "Black chiclet keyboard",
+                "Large central trackpad",
+                "Sleek and slim design"
+            ],
+            "description": "A modern space gray laptop featuring a black keyboard and large trackpad, resting on a light marble tabletop."
+        }
+    },
+    {
+        "filename": "laptop_06.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Apple MacBook Laptops",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Silver aluminum body",
+                "Backlit keyboard with trackpad",
+                "Top-down perspective",
+                "Dual laptop setup"
+            ],
+            "description": "Top-down view of two Apple MacBook laptops placed side by side on a white marble surface, being operated by two users."
+        }
+    },
+    {
+        "filename": "laptop_07.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Laptop Computer",
+            "category": "Electronics",
+            "attributes": [
+                "Silver aluminum body",
+                "Black keyboard",
+                "Large trackpad",
+                "Widescreen display"
+            ],
+            "description": "A modern, sleek silver laptop computer featuring a black chiclet keyboard and large trackpad, displaying a code editing interface on a light wooden desk."
+        }
+    },
+    {
+        "filename": "laptop_08.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Laptop Computer",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Sleek silver finish",
+                "Portable slim profile",
+                "Full-size keyboard with trackpad",
+                "Modern compact design"
+            ],
+            "description": "A modern silver laptop computer featuring a slim design and comfortable keyboard, ideal for business professionals, productivity, and office tasks."
+        }
+    },
+    {
+        "filename": "laptop_09.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "Laptop Computer",
+            "category": "Electronics & Computers",
+            "attributes": [
+                "Silver aluminum chassis",
+                "Black QWERTY keyboard",
+                "Built-in trackpad",
+                "Slim and portable design"
+            ],
+            "description": "Slim silver laptops being used side by side on a clean white workspace."
+        }
+    },
+    {
+        "filename": "laptop_10.jpg",
+        "category_folder": "laptops",
+        "analysis": {
+            "product": "HP Laptop",
+            "category": "Laptops & Computers",
+            "attributes": [
+                "Sleek black matte finish",
+                "Full-size keyboard with numeric keypad",
+                "Widescreen display with thin side bezels",
+                "Trackpad with integrated click buttons"
+            ],
+            "description": "A dark grey or black HP business laptop designed for productivity, featuring a full keyboard with numpad, large touchpad, and wide display screen ideal for office tasks and video conferencing."
+        }
+    },
+    {
+        "filename": "smartphone_01.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphone",
+            "category": "Electronics & Mobile Devices",
+            "attributes": [
+                "White case",
+                "Touchscreen display",
+                "Camera app active",
+                "Slim profile",
+                "Bezel-less design"
+            ],
+            "description": "A close-up view of a person holding a white smartphone, using its camera application to take a photo of a body of water and rocky shoreline."
+        }
+    },
+    {
+        "filename": "smartphone_02.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphones",
+            "category": "Electronics",
+            "attributes": [
+                "Samsung and Apple iPhone models",
+                "Multi-camera lens arrays",
+                "Matte grey and teal back panels"
+            ],
+            "description": "A top-down view of two modern flagship smartphones, a Samsung Galaxy and an Apple iPhone, resting side by side on dry grass."
+        }
+    },
+    {
+        "filename": "smartphone_03.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphones",
+            "category": "Electronics",
+            "attributes": [
+                "Two smartphones",
+                "Monochrome photography",
+                "Touchscreen display",
+                "Sleek modern design"
+            ],
+            "description": "Two modern smartphones, one light and one dark, lying side by side on a plain white surface."
+        }
+    },
+    {
+        "filename": "smartphone_04.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Samsung Galaxy S6 Edge",
+            "category": "Smartphones",
+            "attributes": [
+                "Dual-curved glass display",
+                "Silver metallic frame",
+                "Android operating system",
+                "Physical home button"
+            ],
+            "description": "A silver Samsung Galaxy S6 Edge smartphone featuring a curved edge display, standing upright on a rustic wooden surface outdoors."
+        }
+    },
+    {
+        "filename": "smartphone_05.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Apple iPhone",
+            "category": "Smartphones",
+            "attributes": [
+                "Black glass back with white Apple logo",
+                "Silver aluminum rear panel",
+                "Metallic side buttons"
+            ],
+            "description": "A close-up shot of two Apple iPhones, displaying a classic black glass-backed model resting over a silver aluminum-backed model."
+        }
+    },
+    {
+        "filename": "smartphone_06.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphones",
+            "category": "Electronics & Mobile Devices",
+            "attributes": [
+                "Various generations and display sizes",
+                "iOS and Android operating systems",
+                "Touchscreen glass displays",
+                "Multiple camera cutout designs"
+            ],
+            "description": "A side-by-side comparison of three smartphones displaying different eras of mobile technology, featuring a classic legacy iPhone, a modern notch-less iPhone, and a curved Android smartphone lying on a dark wooden surface."
+        }
+    },
+    {
+        "filename": "smartphone_07.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphone",
+            "category": "Mobile Phones & Accessories",
+            "attributes": [
+                "Dynamic Island cutout",
+                "OLED display screen",
+                "Black bezel finish",
+                "Camera app with grid interface"
+            ],
+            "description": "A modern black smartphone held in hand displaying a live camera preview of a city skyline during dusk."
+        }
+    },
+    {
+        "filename": "smartphone_08.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphones Collection",
+            "category": "Mobile Phones",
+            "attributes": [
+                "Multiple Brands (Samsung, Infinix, Vivo, Realme)",
+                "Varied Rear Camera Configurations",
+                "Assorted Finishes and Colors"
+            ],
+            "description": "A line-up of four modern Android smartphones displayed side-by-side to highlight their distinct rear camera designs, back panel colors, and brand logos."
+        }
+    },
+    {
+        "filename": "smartphone_09.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Smartphones",
+            "category": "Electronics",
+            "attributes": [
+                "Touchscreen display",
+                "Android OS",
+                "Front punch-hole camera",
+                "Slim bezels"
+            ],
+            "description": "Two modern Android smartphones shown side by side with powered-on displays on a textured gray surface."
+        }
+    },
+    {
+        "filename": "smartphone_10.jpg",
+        "category_folder": "smartphones",
+        "analysis": {
+            "product": "Modern Smartphones Collection",
+            "category": "Smartphones",
+            "attributes": [
+                "Multiple camera island designs",
+                "Vibrant color finishes",
+                "Camera-centric back panels",
+                "Sleek contemporary build"
+            ],
+            "description": "A varied collection of modern smartphones featuring distinctive camera module layouts and colorful back panels arranged on a bright yellow surface."
+        }
+    },
+    {
+        "filename": "wearable_01.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Smartwatch with Beige Silicone Band",
+            "category": "Wearable Technology",
+            "attributes": [
+                "Rectangular black touchscreen display",
+                "Beige silicone sports strap",
+                "Gold-tone aluminum case",
+                "Digital crown and side button"
+            ],
+            "description": "A sleek modern smartwatch featuring a rectangular dark display screen and a light beige silicone wristband, shown worn on a wrist against a solid black background."
+        }
+    },
+    {
+        "filename": "wearable_02.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Apple Watch",
+            "category": "Smartwatches",
+            "attributes": [
+                "Black watch case",
+                "Black silicone band",
+                "Rectangular touch display",
+                "App grid menu screen"
+            ],
+            "description": "A sleek black smartwatch worn on a wrist, featuring a rectangular digital display showing various app icons."
+        }
+    },
+    {
+        "filename": "wearable_03.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Smartwatch",
+            "category": "Wearable Electronics",
+            "attributes": [
+                "Dark navy blue silicone band",
+                "Square digital touchscreen display",
+                "Fitness and health tracking display",
+                "Curved glass screen edges"
+            ],
+            "description": "A dark navy blue smartwatch with a square digital touchscreen displaying active workout time and heart rate metrics, worn on a wrist."
+        }
+    },
+    {
+        "filename": "wearable_04.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Smartwatch",
+            "category": "Wearable Electronics",
+            "attributes": [
+                "Square black touchscreen display",
+                "Light pink silicone wristband",
+                "Digital crown button",
+                "Silver-tone case"
+            ],
+            "description": "A modern smartwatch featuring a black glass screen, silver casing, and a light-colored silicone strap standing upright against a soft pink background."
+        }
+    },
+    {
+        "filename": "wearable_05.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Black Smartwatch",
+            "category": "Electronics & Wearable Technology",
+            "attributes": [
+                "Black silicone sport band",
+                "Curved rectangular touchscreen display",
+                "Side digital crown button with red ring accent",
+                "Matte black aluminum case"
+            ],
+            "description": "A modern black smartwatch featuring a sleek rounded-rectangular display screen and a matching black silicone strap, presented on a bright yellow background."
+        }
+    },
+    {
+        "filename": "wearable_06.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Garmin Fēnix Smartwatch",
+            "category": "Smartwatches & Wearables",
+            "attributes": [
+                "Black bezel with exposed screws",
+                "Digital screen showing workout metrics",
+                "Black silicone watch strap",
+                "Rugged GPS sports watch design"
+            ],
+            "description": "A rugged black Garmin smartwatch worn on a wrist, displaying activity tracking metrics including distance, timer, and speed."
+        }
+    },
+    {
+        "filename": "wearable_07.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Smartwatch",
+            "category": "Wearable Electronics",
+            "attributes": [
+                "Black silicone sport band",
+                "Dark metallic rectangular case",
+                "Curved glass display screen",
+                "Digital crown and side button"
+            ],
+            "description": "A modern black smartwatch featuring a matte dark finish and smooth silicone strap, pictured at a side angle resting on a textured fabric surface."
+        }
+    },
+    {
+        "filename": "wearable_08.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Smartwatch with Milanese Mesh Loop",
+            "category": "Smartwatches & Wearables",
+            "attributes": [
+                "Gold / Rose Gold case",
+                "Metallic mesh Milanese loop band",
+                "Rectangular touch screen with rounded corners",
+                "Digital crown dial"
+            ],
+            "description": "A stylish smartwatch featuring a gold-toned case and a matching metallic mesh strap, displayed on a light wooden surface."
+        }
+    },
+    {
+        "filename": "wearable_09.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Apple Watch",
+            "category": "Smartwatches & Wearable Technology",
+            "attributes": [
+                "White sport band",
+                "Silver metallic case",
+                "Rectangular digital touch screen",
+                "Digital Crown dial button"
+            ],
+            "description": "A silver smartwatch with a white wristband displaying a location-based search app on its digital screen."
+        }
+    },
+    {
+        "filename": "wearable_10.jpg",
+        "category_folder": "wearables",
+        "analysis": {
+            "product": "Huawei Smartwatches and Tech Wearables Collection",
+            "category": "Wearable Electronics",
+            "attributes": [
+                "Round metallic analog-style smartwatch",
+                "Square smartwatch with blue strap",
+                "Black smart ring",
+                "Smartphone displaying health metrics"
+            ],
+            "description": "A flat-lay showcase of smart wearable tech featuring a premium metal smartwatch, a square sport smartwatch updating software, a smart ring, and a connected smartphone tracking daily steps."
+        }
+    }
+]

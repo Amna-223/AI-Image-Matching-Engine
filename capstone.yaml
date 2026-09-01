@@ -1,0 +1,5 @@
+run: python -m app.main
+seed: python -m app.batch_process
+base_url: http://localhost:8000
+endpoints:
+  - POST /match
