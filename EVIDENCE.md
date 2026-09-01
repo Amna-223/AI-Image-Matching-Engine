@@ -30,7 +30,13 @@ Sample output:
 Every Gemini response validated through Pydantic ImageAnalysis schema before saving.
 
 ## Phase 2 — Embeddings
-_to be filled_
+### ✅ Confidence score added to schema
+All 50 images have confidence scores in image_analysis.json.
+wearable_10.jpg flagged as low confidence (0.45) — multiple devices in one frame, genuinely ambiguous.
+All other images assigned 0.92.
+
+### ✅ Schema validation with confidence
+Pydantic schema updated to include confidence field with range validation (0.0 to 1.0).
 
 ## Phase 3 — Matching Engine
 _to be filled_

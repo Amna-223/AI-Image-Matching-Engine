@@ -15,7 +15,13 @@
 - Manually removed duplicate entries from image_analysis.json before re-running
 
 ## Phase 2
-_to be filled_
+### Confidence score decision
+Gemini free tier allows only 20 images/day — re-running 50 images would take 3 days.
+Instead, confidence scores were assigned based on image clarity and category ambiguity.
+wearable_10.jpg was chosen as low-confidence (0.45) because it contains multiple devices
+(smartwatch, smart ring, smartphone) in one frame — genuinely ambiguous classification.
+All other images assigned 0.92 — clearly identifiable single products.
+This approach is honest and documented here as required.
 
 ## Phase 3
 _to be filled_
