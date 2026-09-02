@@ -28,19 +28,33 @@ Ranked Matching Articles + Similarity Scores
 
 
 ## Project Structure
+## Project Structure
+
+```
 AI-Image-Matching-Engine/
 ├── app/
-│ ├── batch_process.py # Vision analysis batch job
-│ ├── schemas.py # Pydantic validation schemas
-│ └── main.py # FastAPI app (Phase 4)
+│   ├── batch_process.py         
+│   ├── embeddings.py            
+│   ├── add_confidence.py        
+│   ├── vector_store.py          
+│   ├── matcher.py               
+│   ├── test_matcher.py          
+│   ├── schemas.py               
+│   └── main.py                  
 ├── data/
-│ ├── images/ # 50 product images (5 categories x 10)
-│ ├── articles/ # 10 .txt articles
-│ └── image_analysis.json # Gemini vision output
+│   ├── images/                
+│   ├── articles/              
+│   ├── image_analysis.json    
+│   ├── image_embeddings.json    
+│   └── article_embeddings.json
 ├── .env.example
 ├── requirements.txt
+├── .gitignore
+├── capstone.yaml
+├── BUILDLOG.md
+├── EVIDENCE.md
 └── README.md
-
+```
 
 ## Tech Stack
 

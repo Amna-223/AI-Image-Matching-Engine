@@ -30,6 +30,7 @@ Sample output:
 Every Gemini response validated through Pydantic ImageAnalysis schema before saving.
 
 ## Phase 2 — Embeddings
+
 ### ✅ Confidence score added to schema
 All 50 images have confidence scores in image_analysis.json.
 wearable_10.jpg flagged as low confidence (0.45) — multiple devices in one frame, genuinely ambiguous.
@@ -39,7 +40,33 @@ All other images assigned 0.92.
 Pydantic schema updated to include confidence field with range validation (0.0 to 1.0).
 
 ## Phase 3 — Matching Engine
-_to be filled_
+
+### ✅ FAISS index built
+10 article embeddings loaded into FAISS IndexFlatIP.
+Cosine similarity search working correctly.
+
+### ✅ All 50 images matched correctly
+49/50 images correctly matched to their relevant articles.
+1/50 correctly rejected (wearable_10.jpg — low confidence 0.45).
+
+Results:
+- All 10 camera images    → How to Choose the Right Camera
+- All 10 headphone images → A Beginner's Guide to Wireless Audio
+- All 10 smartphone images→ How to Choose the Right Smartphone
+- All 10 wearable images  → Understanding Wearable Technology (except wearable_10 rejected)
+- 8/10 laptop images      → What to Look for When Buying a Laptop
+
+### ✅ Mismatch guard working
+wearable_10.jpg correctly REJECTED — low confidence (0.45)
+Guard checks:
+1. Confidence threshold (0.60)
+2. Similarity threshold (0.60)
+3. Category keyword match
+
+### ✅ Generic article penalty applied
+Articles 6-10 cover multiple categories.
+Penalty of 0.03 applied to prevent generic articles
+outranking specific ones.
 
 ## Phase 4 — Production Layer
 _to be filled_

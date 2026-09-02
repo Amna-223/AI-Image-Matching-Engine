@@ -89,6 +89,7 @@ def generate_image_embeddings():
             results.append({
                 "filename": filename,
                 "category_folder": entry["category_folder"],
+                "analysis": entry["analysis"],
                 "text": text,
                 "embedding": vector
             })
