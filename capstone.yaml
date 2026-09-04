@@ -1,5 +1,7 @@
 run: python -m app.main
 seed: python -m app.batch_process
+test: python -m app.evaluate
 base_url: http://localhost:8000
 endpoints:
   - POST /match
+  - GET /cost-log
