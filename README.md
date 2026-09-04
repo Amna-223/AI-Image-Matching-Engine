@@ -98,9 +98,25 @@ python -m app.main
 - 10 articles covering each product category
 - All images sourced from Pexels (free license)
 
-## Evaluation
+## Evaluation Results
 
-Top-1 precision measured on labeled eval set — results in EVIDENCE.md
+Evaluated on 50 labeled images across 5 categories.
+
+| Metric | Value |
+|--------|-------|
+| Total images | 50 |
+| Correct matches | 47 |
+| Wrong matches | 2 |
+| Intentional rejections | 1 |
+| Top-1 Precision (matched only) | 95.92% |
+| Top-1 Precision (all) | 94.00% |
+
+### Notes
+- laptop_06 and laptop_07 matched a generic multi-category article
+  instead of the laptop article — Gemini assigned "Electronics" as
+  category instead of "Laptops", causing category check to fail.
+- wearable_10 correctly rejected due to low confidence (0.45) —
+  image contains multiple devices in one frame.
 
 ## Limitations
 

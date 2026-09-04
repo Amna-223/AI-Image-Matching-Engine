@@ -1,0 +1,786 @@
+[
+    {
+        "timestamp": "2026-09-03T13:56:29.118894",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120343",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120357",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120361",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120365",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120368",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120371",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120374",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120377",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120380",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "camera_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120382",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120385",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120397",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120400",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120402",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120405",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120407",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120410",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120413",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120415",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "headphone_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120421",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120424",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120427",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120429",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120431",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120435",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120438",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120441",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120443",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120446",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "laptop_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120449",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120451",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120453",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120457",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120460",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120462",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120464",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120467",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120469",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120471",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "smartphone_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120474",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120477",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120479",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120481",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120484",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120491",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120494",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120496",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120498",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.120500",
+        "call_type": "vision",
+        "model": "gemini-2.5-flash",
+        "details": "wearable_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196063",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196087",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196092",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196096",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196100",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196102",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196105",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196107",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196109",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196111",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "camera_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196113",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196115",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196117",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196119",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196121",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196125",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196127",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196129",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196131",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196133",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196136",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196138",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196140",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196142",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196144",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196146",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196148",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196152",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196154",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196156",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "laptop_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196158",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196160",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196162",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196165",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196167",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196169",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196171",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196173",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196175",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196177",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "smartphone_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196179",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_01.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196181",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196183",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_03.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196186",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_04.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196189",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_05.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196191",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_06.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196193",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_07.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196195",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_08.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196197",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_09.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.196199",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "wearable_10.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.224974",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_01.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.224998",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_02.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225004",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_03.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225007",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_04.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225010",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_05.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225012",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_06.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225014",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_07.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225016",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_08.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225018",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_09.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T13:56:29.225023",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "article_10.txt",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T14:23:56.241591",
+        "call_type": "vision",
+        "model": "gemini-3.6-flash",
+        "details": "headphone_02.jpg",
+        "cost_usd": 0.0
+    },
+    {
+        "timestamp": "2026-09-03T14:23:57.604936",
+        "call_type": "embedding",
+        "model": "gemini-embedding-001",
+        "details": "headphone_02.jpg",
+        "cost_usd": 0.0
+    }
+]
