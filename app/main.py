@@ -6,6 +6,7 @@ from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
 from google import genai
+from google.genai import errors as genai_errors
 from PIL import Image
 
 from app.schemas import ImageAnalysis
@@ -24,7 +25,6 @@ app = FastAPI(
 # Load FAISS index once at startup
 index, articles = load_article_index()
 
-# Load article embeddings for reference
 with open("data/article_embeddings.json", "r", encoding="utf-8") as f:
     article_embeddings = json.load(f)
 
@@ -80,10 +80,16 @@ async def match_image(file: UploadFile = File(...)):
         # Step 3 — Gemini vision analysis
         image = Image.open(tmp_path)
 
-        response = client.models.generate_content(
-            model="gemini-3.6-flash",
-            contents=[image, prompt]
-        )
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.6-flash",
+                contents=[image, prompt]
+            )
+        except genai_errors.ServerError:
+            raise HTTPException(
+                status_code=503,
+                detail="Gemini model temporarily unavailable. Please try again later."
+            )
 
         # Step 4 — validate response against schema
         try:
@@ -91,21 +97,29 @@ async def match_image(file: UploadFile = File(...)):
             analysis = ImageAnalysis(**data)
             log_call("vision", "gemini-3.6-flash", file.filename)
         except Exception as e:
-            raise HTTPException(status_code=422, detail=f"Invalid model response: {str(e)}")
+            raise HTTPException(
+                status_code=422,
+                detail=f"Invalid model response: {str(e)}"
+            )
 
         # Step 5 — generate embedding
-        from google import genai as genai_embed
-        embed_client = genai_embed.Client(api_key=os.getenv("GEMINI_API_KEY"))
+        embed_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
         analysis_dict = analysis.model_dump()
         text = f"Product: {analysis_dict['product']}. Category: {analysis_dict['category']}. Attributes: {', '.join(analysis_dict['attributes'])}. Description: {analysis_dict['description']}"
 
-        embed_response = embed_client.models.embed_content(
-            model="models/gemini-embedding-001",
-            contents=text
-        )
-        embedding = embed_response.embeddings[0].values
-        log_call("embedding", "gemini-embedding-001", file.filename)
+        try:
+            embed_response = embed_client.models.embed_content(
+                model="models/gemini-embedding-001",
+                contents=text
+            )
+            embedding = embed_response.embeddings[0].values
+            log_call("embedding", "gemini-embedding-001", file.filename)
+        except genai_errors.ServerError:
+            raise HTTPException(
+                status_code=503,
+                detail="Gemini embedding model temporarily unavailable. Please try again later."
+            )
 
         # Step 6 — match via FAISS + mismatch guard
         image_entry = {
@@ -124,7 +138,6 @@ async def match_image(file: UploadFile = File(...)):
         })
 
     finally:
-        # Clean up temp file
         os.unlink(tmp_path)
 
 
@@ -147,6 +160,7 @@ def get_cost_log():
         "total_cost_usd": 0.0,
         "log": log
     }
+
 
 if __name__ == "__main__":
     import uvicorn
